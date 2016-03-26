@@ -1,0 +1,49 @@
+﻿
+body {
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+#container {
+    border: 0 none;
+    margin: 0 auto;
+    padding: 0;
+    width: 660px;/*660*/
+}
+#masthead {
+    border: 0 none;
+    margin: 0;
+    overflow: hidden;
+    padding: 30px;
+}
+#iMenu {
+    border: 0 none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    width: 660px;/*660*/
+}
+#column_l {
+    float: left;
+    margin: 0;
+    position: relative;
+}
+#column_r {
+    float: left;
+    margin: 0;
+    position: relative;
+}
+#content {
+    border: 0 none;
+    margin: 0;
+    padding: 15px;
+    width: 630px;/*630px*/
+}
+#footer {
+    border: 0 none;
+    clear: both;
+    margin: 0;
+    overflow: auto;
+    padding: 0;
+    width: 100%;
+}
